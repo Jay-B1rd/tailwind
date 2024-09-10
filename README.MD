@@ -1,0 +1,1 @@
+typically only use tailwind for quick proof of concept, do not use it in final projects
